@@ -1,0 +1,10 @@
+package com.springBoot.sts;
+
+public class Test {
+	
+	public String test(){
+		return "spring boot project using Spring STS";
+		
+	}
+
+}
